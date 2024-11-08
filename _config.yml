@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Jacobo Ferrer"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "I am an economics Ph.D and researcher focusing on distributional and environmental input-output models"
+  location         : "Madrid, Spain"
+  employer         : "Universidad Politécnica de Madrid"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "jferrherz@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
