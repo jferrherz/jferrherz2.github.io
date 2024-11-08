@@ -24,19 +24,19 @@ author:
   avatar           : "profile.png"
   name             : "Jacobo Ferrer"
   pronouns         : # example: "she/her"  
-  bio              : "I am an economics Ph.D and researcher focusing on distributional and environmental input-output models"
+  bio              : "Climate change researcher. Economics Ph.D from The New School for Social Reserch"
   location         : "Madrid, Spain"
-  employer         : "Universidad Politécnica de Madrid"
+  employer         : "Technical U. of Madrid"
   uri              : # URL
   email            : "jferrherz@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-7873-6275"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
