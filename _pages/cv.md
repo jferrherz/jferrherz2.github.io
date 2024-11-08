@@ -11,35 +11,20 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Civil Systems Engineering, Technical University of Madrid, 2025 (expected)
+* Ph.D in Economics, The New School for Social Research, 2024
+* M.Sc. in Economics, The New School for Social Research, 2020
+* M.A. in International Economics and Development, Complutense University of Madrid, 2014
+* B.S. in Sociology, Complutense University of Madrid, 2012
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Researcher, Technical University of Madrid, September 2023 - Present
+* Ph.D. Trainee, European Central Bank, October 2022 - August 2023
+* Junior Economist, United Nations Development Program (UNDP), November 2020 - March 2021
+* United Nations Volunteer, United Nations Development Program (UNDP), August 2020 - September 2020
+* Research Assistant, The New School for Social Research, August 2018 - May 2019 (part-time)
+* Pre-doctoral Researcher, Universidad Nacional de Educación a Distancia, December 2015 - August 2016
 
 Publications
 ======
